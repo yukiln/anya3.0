@@ -42,3 +42,11 @@ for (let i = 0; i < 28; i += 1) {
 for (let i = 0; i < 32; i += 1) {
   background.appendChild(createHeart());
 }
+
+for (let i = 0; i < 28; i += 1) {
+  background.appendChild(createBalloon());
+}
+
+for (let i = 0; i < 32; i += 1) {
+  background.appendChild(createHeart());
+}
